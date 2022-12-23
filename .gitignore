@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+otto-recommender-system/sample_submission.csv
+otto-recommender-system/test.jsonl
+otto-recommender-system/
